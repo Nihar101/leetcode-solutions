@@ -15,4 +15,20 @@ My solutions to LeetCode problems in C++ and other languages.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Nihar101/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+## Array
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nihar101/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nihar101/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nihar101/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nihar101/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->

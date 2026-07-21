@@ -35,13 +35,23 @@ My solutions to LeetCode problems in C++ and other languages.
 ## Hash Table
 |  |
 | ------- |
+| [0763-partition-labels](https://github.com/Nihar101/leetcode-solutions/tree/master/0763-partition-labels) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nihar101/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
 | ------- |
+| [0763-partition-labels](https://github.com/Nihar101/leetcode-solutions/tree/master/0763-partition-labels) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nihar101/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nihar101/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+## String
+|  |
+| ------- |
+| [0763-partition-labels](https://github.com/Nihar101/leetcode-solutions/tree/master/0763-partition-labels) |
+## Greedy
+|  |
+| ------- |
+| [0763-partition-labels](https://github.com/Nihar101/leetcode-solutions/tree/master/0763-partition-labels) |
 <!---LeetCode Topics End-->

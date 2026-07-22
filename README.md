@@ -19,6 +19,7 @@ My solutions to LeetCode problems in C++ and other languages.
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nihar101/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Nihar101/leetcode-solutions/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nihar101/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Binary Search
 |  |
@@ -46,6 +47,7 @@ My solutions to LeetCode problems in C++ and other languages.
 ## Sorting
 |  |
 | ------- |
+| [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Nihar101/leetcode-solutions/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nihar101/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String
 |  |
@@ -56,6 +58,7 @@ My solutions to LeetCode problems in C++ and other languages.
 |  |
 | ------- |
 | [0763-partition-labels](https://github.com/Nihar101/leetcode-solutions/tree/master/0763-partition-labels) |
+| [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Nihar101/leetcode-solutions/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 ## Sliding Window
 |  |
 | ------- |

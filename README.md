@@ -24,6 +24,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Nihar101/leetcode-solutions/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nihar101/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nihar101/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Nihar101/leetcode-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,6 +76,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [0846-hand-of-straights](https://github.com/Nihar101/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Nihar101/leetcode-solutions/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nihar101/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Nihar101/leetcode-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2405-optimal-partition-of-string](https://github.com/Nihar101/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
 ## Sliding Window
 |  |
@@ -102,4 +104,8 @@ My solutions to LeetCode problems in C++ and other languages.
 |  |
 | ------- |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Nihar101/leetcode-solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Nihar101/leetcode-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 <!---LeetCode Topics End-->

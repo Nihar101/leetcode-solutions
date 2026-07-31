@@ -30,6 +30,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nihar101/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0981-time-based-key-value-store](https://github.com/Nihar101/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Nihar101/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nihar101/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
@@ -69,6 +70,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nihar101/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0763-partition-labels](https://github.com/Nihar101/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/Nihar101/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Nihar101/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nihar101/leetcode-solutions/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2405-optimal-partition-of-string](https://github.com/Nihar101/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
 ## Greedy
@@ -84,10 +86,12 @@ My solutions to LeetCode problems in C++ and other languages.
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nihar101/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Nihar101/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nihar101/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1208-get-equal-substrings-within-budget](https://github.com/Nihar101/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nihar101/leetcode-solutions/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nihar101/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation

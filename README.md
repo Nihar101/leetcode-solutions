@@ -46,6 +46,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [0763-partition-labels](https://github.com/Nihar101/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Nihar101/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0981-time-based-key-value-store](https://github.com/Nihar101/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nihar101/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nihar101/leetcode-solutions/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nihar101/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2405-optimal-partition-of-string](https://github.com/Nihar101/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
@@ -58,6 +59,7 @@ My solutions to LeetCode problems in C++ and other languages.
 |  |
 | ------- |
 | [0846-hand-of-straights](https://github.com/Nihar101/leetcode-solutions/tree/master/0846-hand-of-straights) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nihar101/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Nihar101/leetcode-solutions/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nihar101/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nihar101/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -95,10 +97,12 @@ My solutions to LeetCode problems in C++ and other languages.
 ## Depth-First Search
 |  |
 | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nihar101/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Nihar101/leetcode-solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nihar101/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Nihar101/leetcode-solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Graph Theory
 |  |
@@ -108,4 +112,12 @@ My solutions to LeetCode problems in C++ and other languages.
 |  |
 | ------- |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Nihar101/leetcode-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
+## Tree
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nihar101/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nihar101/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->

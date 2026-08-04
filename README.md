@@ -127,5 +127,6 @@ My solutions to LeetCode problems in C++ and other languages.
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/Nihar101/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Nihar101/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

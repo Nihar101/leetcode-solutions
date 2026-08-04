@@ -124,4 +124,8 @@ My solutions to LeetCode problems in C++ and other languages.
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nihar101/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Nihar101/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

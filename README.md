@@ -26,6 +26,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [1695-maximum-erasure-value](https://github.com/Nihar101/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nihar101/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Nihar101/leetcode-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2054-two-best-non-overlapping-events](https://github.com/Nihar101/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,6 +34,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [0981-time-based-key-value-store](https://github.com/Nihar101/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Nihar101/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nihar101/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2054-two-best-non-overlapping-events](https://github.com/Nihar101/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,6 +68,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Nihar101/leetcode-solutions/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nihar101/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nihar101/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2054-two-best-non-overlapping-events](https://github.com/Nihar101/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 ## String
 |  |
 | ------- |
@@ -119,6 +122,7 @@ My solutions to LeetCode problems in C++ and other languages.
 |  |
 | ------- |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Nihar101/leetcode-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2054-two-best-non-overlapping-events](https://github.com/Nihar101/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 ## Tree
 |  |
 | ------- |
@@ -154,4 +158,8 @@ My solutions to LeetCode problems in C++ and other languages.
 | [1757-recyclable-and-low-fat-products](https://github.com/Nihar101/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/Nihar101/leetcode-solutions/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Nihar101/leetcode-solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2054-two-best-non-overlapping-events](https://github.com/Nihar101/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 <!---LeetCode Topics End-->

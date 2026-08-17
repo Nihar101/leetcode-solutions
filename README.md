@@ -27,6 +27,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nihar101/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Nihar101/leetcode-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2054-two-best-non-overlapping-events](https://github.com/Nihar101/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Nihar101/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Binary Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [1208-get-equal-substrings-within-budget](https://github.com/Nihar101/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nihar101/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2054-two-best-non-overlapping-events](https://github.com/Nihar101/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Nihar101/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -60,6 +62,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | ------- |
 | [0763-partition-labels](https://github.com/Nihar101/leetcode-solutions/tree/master/0763-partition-labels) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nihar101/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Nihar101/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |
 | ------- |
@@ -69,6 +72,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nihar101/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nihar101/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2054-two-best-non-overlapping-events](https://github.com/Nihar101/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Nihar101/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## String
 |  |
 | ------- |

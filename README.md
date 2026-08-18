@@ -7,6 +7,7 @@ My solutions to LeetCode problems in C++ and other languages.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Nihar101/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [2211-count-collisions-on-a-road](https://github.com/Nihar101/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 ## Design
 |  |
 | ------- |
@@ -81,6 +82,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [0981-time-based-key-value-store](https://github.com/Nihar101/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Nihar101/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nihar101/leetcode-solutions/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2211-count-collisions-on-a-road](https://github.com/Nihar101/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2405-optimal-partition-of-string](https://github.com/Nihar101/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
 ## Greedy
 |  |
@@ -169,4 +171,8 @@ My solutions to LeetCode problems in C++ and other languages.
 |  |
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/Nihar101/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
+## Simulation
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/Nihar101/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 <!---LeetCode Topics End-->

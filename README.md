@@ -29,6 +29,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Nihar101/leetcode-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2054-two-best-non-overlapping-events](https://github.com/Nihar101/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Nihar101/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Nihar101/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +65,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [0763-partition-labels](https://github.com/Nihar101/leetcode-solutions/tree/master/0763-partition-labels) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nihar101/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Nihar101/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Nihar101/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Sorting
 |  |
 | ------- |
@@ -129,6 +131,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | ------- |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Nihar101/leetcode-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2054-two-best-non-overlapping-events](https://github.com/Nihar101/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Nihar101/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Tree
 |  |
 | ------- |
@@ -178,4 +181,5 @@ My solutions to LeetCode problems in C++ and other languages.
 |  |
 | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/Nihar101/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Nihar101/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 <!---LeetCode Topics End-->

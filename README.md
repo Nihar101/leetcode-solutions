@@ -11,6 +11,7 @@ My solutions to LeetCode problems in C++ and other languages.
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Nihar101/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/Nihar101/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0981-time-based-key-value-store](https://github.com/Nihar101/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 ## Queue
@@ -50,6 +51,7 @@ My solutions to LeetCode problems in C++ and other languages.
 ## Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Nihar101/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nihar101/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0763-partition-labels](https://github.com/Nihar101/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Nihar101/leetcode-solutions/tree/master/0846-hand-of-straights) |
@@ -79,6 +81,7 @@ My solutions to LeetCode problems in C++ and other languages.
 ## String
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Nihar101/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nihar101/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0763-partition-labels](https://github.com/Nihar101/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/Nihar101/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
@@ -186,4 +189,8 @@ My solutions to LeetCode problems in C++ and other languages.
 | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/Nihar101/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Nihar101/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Nihar101/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->

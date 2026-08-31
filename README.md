@@ -22,6 +22,7 @@ My solutions to LeetCode problems in C++ and other languages.
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nihar101/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0566-reshape-the-matrix](https://github.com/Nihar101/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0846-hand-of-straights](https://github.com/Nihar101/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Nihar101/leetcode-solutions/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nihar101/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -48,6 +49,7 @@ My solutions to LeetCode problems in C++ and other languages.
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nihar101/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0566-reshape-the-matrix](https://github.com/Nihar101/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -187,6 +189,7 @@ My solutions to LeetCode problems in C++ and other languages.
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/Nihar101/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [2211-count-collisions-on-a-road](https://github.com/Nihar101/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Nihar101/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Trie

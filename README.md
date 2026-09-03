@@ -83,6 +83,7 @@ My solutions to LeetCode problems in C++ and other languages.
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/Nihar101/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0208-implement-trie-prefix-tree](https://github.com/Nihar101/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nihar101/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0763-partition-labels](https://github.com/Nihar101/leetcode-solutions/tree/master/0763-partition-labels) |
@@ -186,6 +187,7 @@ My solutions to LeetCode problems in C++ and other languages.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/Nihar101/leetcode-solutions/tree/master/0091-decode-ways) |
 | [2054-two-best-non-overlapping-events](https://github.com/Nihar101/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 ## Simulation
 |  |

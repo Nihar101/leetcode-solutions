@@ -152,6 +152,7 @@ My solutions to LeetCode problems in C++ and other languages.
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Nihar101/leetcode-solutions/tree/master/0175-combine-two-tables) |
+| [0178-rank-scores](https://github.com/Nihar101/leetcode-solutions/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/Nihar101/leetcode-solutions/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/Nihar101/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Nihar101/leetcode-solutions/tree/master/0197-rising-temperature) |

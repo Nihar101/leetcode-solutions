@@ -33,6 +33,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [2054-two-best-non-overlapping-events](https://github.com/Nihar101/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Nihar101/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Nihar101/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nihar101/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2054-two-best-non-overlapping-events](https://github.com/Nihar101/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Nihar101/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -82,6 +84,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nihar101/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2054-two-best-non-overlapping-events](https://github.com/Nihar101/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Nihar101/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## String
 |  |
 | ------- |
@@ -228,4 +231,8 @@ My solutions to LeetCode problems in C++ and other languages.
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Nihar101/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+## Enumeration
+|  |
+| ------- |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 <!---LeetCode Topics End-->

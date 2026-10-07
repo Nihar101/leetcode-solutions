@@ -33,6 +33,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [2054-two-best-non-overlapping-events](https://github.com/Nihar101/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Nihar101/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Nihar101/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/Nihar101/leetcode-solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/Nihar101/leetcode-solutions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Binary Search
@@ -56,6 +57,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nihar101/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/Nihar101/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/Nihar101/leetcode-solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Hash Table
 |  |
 | ------- |
@@ -229,6 +231,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [0566-reshape-the-matrix](https://github.com/Nihar101/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [2211-count-collisions-on-a-road](https://github.com/Nihar101/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Nihar101/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/Nihar101/leetcode-solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Trie
 |  |
 | ------- |

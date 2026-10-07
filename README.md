@@ -8,6 +8,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Nihar101/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [2211-count-collisions-on-a-road](https://github.com/Nihar101/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
+| [4054-count-shadow-pairs-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4054-count-shadow-pairs-i) |
 ## Design
 |  |
 | ------- |
@@ -34,6 +35,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Nihar101/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Nihar101/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/Nihar101/leetcode-solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
+| [4054-count-shadow-pairs-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4054-count-shadow-pairs-i) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/Nihar101/leetcode-solutions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Binary Search
@@ -244,4 +246,8 @@ My solutions to LeetCode problems in C++ and other languages.
 |  |
 | ------- |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [4054-count-shadow-pairs-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4054-count-shadow-pairs-i) |
 <!---LeetCode Topics End-->

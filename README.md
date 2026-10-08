@@ -34,6 +34,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [2054-two-best-non-overlapping-events](https://github.com/Nihar101/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Nihar101/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Nihar101/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/Nihar101/leetcode-solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
 | [4054-count-shadow-pairs-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4054-count-shadow-pairs-i) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
@@ -74,6 +75,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nihar101/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/Nihar101/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 | [2405-optimal-partition-of-string](https://github.com/Nihar101/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Two Pointers
 |  |
 | ------- |

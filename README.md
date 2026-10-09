@@ -8,6 +8,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Nihar101/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [2211-count-collisions-on-a-road](https://github.com/Nihar101/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
+| [4045-count-robot-groups](https://github.com/Nihar101/leetcode-solutions/tree/master/4045-count-robot-groups) |
 | [4054-count-shadow-pairs-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4054-count-shadow-pairs-i) |
 ## Design
 |  |
@@ -35,6 +36,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Nihar101/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Nihar101/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [4044-count-good-cyclic-rotations](https://github.com/Nihar101/leetcode-solutions/tree/master/4044-count-good-cyclic-rotations) |
+| [4045-count-robot-groups](https://github.com/Nihar101/leetcode-solutions/tree/master/4045-count-robot-groups) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Nihar101/leetcode-solutions/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/Nihar101/leetcode-solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
@@ -260,6 +262,7 @@ My solutions to LeetCode problems in C++ and other languages.
 ## Monotonic Stack
 |  |
 | ------- |
+| [4045-count-robot-groups](https://github.com/Nihar101/leetcode-solutions/tree/master/4045-count-robot-groups) |
 | [4054-count-shadow-pairs-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4054-count-shadow-pairs-i) |
 ## Math
 |  |

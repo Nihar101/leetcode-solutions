@@ -110,6 +110,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nihar101/leetcode-solutions/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2211-count-collisions-on-a-road](https://github.com/Nihar101/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2405-optimal-partition-of-string](https://github.com/Nihar101/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Nihar101/leetcode-solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -127,6 +128,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [1208-get-equal-substrings-within-budget](https://github.com/Nihar101/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1695-maximum-erasure-value](https://github.com/Nihar101/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nihar101/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Nihar101/leetcode-solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -250,6 +252,7 @@ My solutions to LeetCode problems in C++ and other languages.
 ## Enumeration
 |  |
 | ------- |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Nihar101/leetcode-solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Monotonic Stack
 |  |

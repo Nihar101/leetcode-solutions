@@ -34,6 +34,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [2054-two-best-non-overlapping-events](https://github.com/Nihar101/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Nihar101/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Nihar101/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
+| [4044-count-good-cyclic-rotations](https://github.com/Nihar101/leetcode-solutions/tree/master/4044-count-good-cyclic-rotations) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Nihar101/leetcode-solutions/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/Nihar101/leetcode-solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
@@ -129,12 +130,14 @@ My solutions to LeetCode problems in C++ and other languages.
 | [1695-maximum-erasure-value](https://github.com/Nihar101/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nihar101/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Nihar101/leetcode-solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
+| [4044-count-good-cyclic-rotations](https://github.com/Nihar101/leetcode-solutions/tree/master/4044-count-good-cyclic-rotations) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1208-get-equal-substrings-within-budget](https://github.com/Nihar101/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nihar101/leetcode-solutions/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nihar101/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [4044-count-good-cyclic-rotations](https://github.com/Nihar101/leetcode-solutions/tree/master/4044-count-good-cyclic-rotations) |
 ## Bit Manipulation
 |  |
 | ------- |

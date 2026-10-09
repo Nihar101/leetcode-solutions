@@ -231,6 +231,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [0091-decode-ways](https://github.com/Nihar101/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0300-longest-increasing-subsequence](https://github.com/Nihar101/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [2054-two-best-non-overlapping-events](https://github.com/Nihar101/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/Nihar101/leetcode-solutions/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Simulation
 |  |
 | ------- |
@@ -254,4 +255,8 @@ My solutions to LeetCode problems in C++ and other languages.
 |  |
 | ------- |
 | [4054-count-shadow-pairs-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4054-count-shadow-pairs-i) |
+## Math
+|  |
+| ------- |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/Nihar101/leetcode-solutions/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 <!---LeetCode Topics End-->

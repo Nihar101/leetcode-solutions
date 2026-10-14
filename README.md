@@ -36,6 +36,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Nihar101/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Nihar101/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/Nihar101/leetcode-solutions/tree/master/4034-minimum-bishop-moves-to-reach-target) |
+| [4035-maximum-valid-split-positions-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4035-maximum-valid-split-positions-i) |
 | [4044-count-good-cyclic-rotations](https://github.com/Nihar101/leetcode-solutions/tree/master/4044-count-good-cyclic-rotations) |
 | [4045-count-robot-groups](https://github.com/Nihar101/leetcode-solutions/tree/master/4045-count-robot-groups) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
@@ -258,6 +259,7 @@ My solutions to LeetCode problems in C++ and other languages.
 ## Enumeration
 |  |
 | ------- |
+| [4035-maximum-valid-split-positions-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4035-maximum-valid-split-positions-i) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Nihar101/leetcode-solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Monotonic Stack
@@ -269,5 +271,10 @@ My solutions to LeetCode problems in C++ and other languages.
 |  |
 | ------- |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/Nihar101/leetcode-solutions/tree/master/4034-minimum-bishop-moves-to-reach-target) |
+| [4035-maximum-valid-split-positions-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4035-maximum-valid-split-positions-i) |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/Nihar101/leetcode-solutions/tree/master/4050-minimum-days-to-score-exactly-n-points) |
+## Number Theory
+|  |
+| ------- |
+| [4035-maximum-valid-split-positions-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4035-maximum-valid-split-positions-i) |
 <!---LeetCode Topics End-->

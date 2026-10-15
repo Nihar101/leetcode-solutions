@@ -38,6 +38,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/Nihar101/leetcode-solutions/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4035-maximum-valid-split-positions-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4035-maximum-valid-split-positions-i) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/Nihar101/leetcode-solutions/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/Nihar101/leetcode-solutions/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4044-count-good-cyclic-rotations](https://github.com/Nihar101/leetcode-solutions/tree/master/4044-count-good-cyclic-rotations) |
 | [4045-count-robot-groups](https://github.com/Nihar101/leetcode-solutions/tree/master/4045-count-robot-groups) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
@@ -82,6 +83,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nihar101/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/Nihar101/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 | [2405-optimal-partition-of-string](https://github.com/Nihar101/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/Nihar101/leetcode-solutions/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Nihar101/leetcode-solutions/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Two Pointers
@@ -281,4 +283,8 @@ My solutions to LeetCode problems in C++ and other languages.
 |  |
 | ------- |
 | [4035-maximum-valid-split-positions-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4035-maximum-valid-split-positions-i) |
+## Counting
+|  |
+| ------- |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/Nihar101/leetcode-solutions/tree/master/4038-count-integers-appearing-in-a-single-block) |
 <!---LeetCode Topics End-->

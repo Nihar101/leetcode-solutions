@@ -39,6 +39,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [4035-maximum-valid-split-positions-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4035-maximum-valid-split-positions-i) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/Nihar101/leetcode-solutions/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Nihar101/leetcode-solutions/tree/master/4038-count-integers-appearing-in-a-single-block) |
+| [4039-sum-of-decoded-numbers](https://github.com/Nihar101/leetcode-solutions/tree/master/4039-sum-of-decoded-numbers) |
 | [4044-count-good-cyclic-rotations](https://github.com/Nihar101/leetcode-solutions/tree/master/4044-count-good-cyclic-rotations) |
 | [4045-count-robot-groups](https://github.com/Nihar101/leetcode-solutions/tree/master/4045-count-robot-groups) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
@@ -253,6 +254,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [0566-reshape-the-matrix](https://github.com/Nihar101/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [2211-count-collisions-on-a-road](https://github.com/Nihar101/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Nihar101/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
+| [4039-sum-of-decoded-numbers](https://github.com/Nihar101/leetcode-solutions/tree/master/4039-sum-of-decoded-numbers) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/Nihar101/leetcode-solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Trie
 |  |
@@ -278,6 +280,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | ------- |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/Nihar101/leetcode-solutions/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4035-maximum-valid-split-positions-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4035-maximum-valid-split-positions-i) |
+| [4039-sum-of-decoded-numbers](https://github.com/Nihar101/leetcode-solutions/tree/master/4039-sum-of-decoded-numbers) |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/Nihar101/leetcode-solutions/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Number Theory
 |  |

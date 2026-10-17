@@ -90,6 +90,7 @@ My solutions to LeetCode problems in C++ and other languages.
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Nihar101/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0763-partition-labels](https://github.com/Nihar101/leetcode-solutions/tree/master/0763-partition-labels) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nihar101/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Nihar101/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -111,6 +112,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | ------- |
 | [0091-decode-ways](https://github.com/Nihar101/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0208-implement-trie-prefix-tree](https://github.com/Nihar101/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0392-is-subsequence](https://github.com/Nihar101/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nihar101/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nihar101/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0763-partition-labels](https://github.com/Nihar101/leetcode-solutions/tree/master/0763-partition-labels) |
@@ -246,6 +248,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | ------- |
 | [0091-decode-ways](https://github.com/Nihar101/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0300-longest-increasing-subsequence](https://github.com/Nihar101/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0392-is-subsequence](https://github.com/Nihar101/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [2054-two-best-non-overlapping-events](https://github.com/Nihar101/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/Nihar101/leetcode-solutions/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Simulation

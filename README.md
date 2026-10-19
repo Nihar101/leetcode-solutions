@@ -40,6 +40,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/Nihar101/leetcode-solutions/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Nihar101/leetcode-solutions/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4039-sum-of-decoded-numbers](https://github.com/Nihar101/leetcode-solutions/tree/master/4039-sum-of-decoded-numbers) |
+| [4040-minimum-operations-to-form-subset-sum-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
 | [4044-count-good-cyclic-rotations](https://github.com/Nihar101/leetcode-solutions/tree/master/4044-count-good-cyclic-rotations) |
 | [4045-count-robot-groups](https://github.com/Nihar101/leetcode-solutions/tree/master/4045-count-robot-groups) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
@@ -250,6 +251,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [0300-longest-increasing-subsequence](https://github.com/Nihar101/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Nihar101/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [2054-two-best-non-overlapping-events](https://github.com/Nihar101/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
+| [4040-minimum-operations-to-form-subset-sum-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/Nihar101/leetcode-solutions/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Simulation
 |  |

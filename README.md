@@ -36,6 +36,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Nihar101/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Nihar101/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Nihar101/leetcode-solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Nihar101/leetcode-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/Nihar101/leetcode-solutions/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4035-maximum-valid-split-positions-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4035-maximum-valid-split-positions-i) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/Nihar101/leetcode-solutions/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |

@@ -37,6 +37,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [2462-total-cost-to-hire-k-workers](https://github.com/Nihar101/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Nihar101/leetcode-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/Nihar101/leetcode-solutions/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
+| [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/Nihar101/leetcode-solutions/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Nihar101/leetcode-solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Nihar101/leetcode-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/Nihar101/leetcode-solutions/tree/master/4034-minimum-bishop-moves-to-reach-target) |
@@ -74,6 +75,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nihar101/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/Nihar101/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
+| [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/Nihar101/leetcode-solutions/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/Nihar101/leetcode-solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Hash Table
 |  |
@@ -158,6 +160,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [1208-get-equal-substrings-within-budget](https://github.com/Nihar101/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nihar101/leetcode-solutions/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nihar101/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/Nihar101/leetcode-solutions/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 | [4044-count-good-cyclic-rotations](https://github.com/Nihar101/leetcode-solutions/tree/master/4044-count-good-cyclic-rotations) |
 ## Bit Manipulation
 |  |
@@ -259,6 +262,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [0300-longest-increasing-subsequence](https://github.com/Nihar101/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Nihar101/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [2054-two-best-non-overlapping-events](https://github.com/Nihar101/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
+| [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/Nihar101/leetcode-solutions/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 | [4040-minimum-operations-to-form-subset-sum-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/Nihar101/leetcode-solutions/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Simulation

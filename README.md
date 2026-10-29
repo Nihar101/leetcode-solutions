@@ -35,6 +35,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [2054-two-best-non-overlapping-events](https://github.com/Nihar101/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Nihar101/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Nihar101/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/Nihar101/leetcode-solutions/tree/master/3919-minimum-cost-to-move-between-indices) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Nihar101/leetcode-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/Nihar101/leetcode-solutions/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
 | [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/Nihar101/leetcode-solutions/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
@@ -143,6 +144,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nihar101/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Nihar101/leetcode-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2405-optimal-partition-of-string](https://github.com/Nihar101/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/Nihar101/leetcode-solutions/tree/master/3919-minimum-cost-to-move-between-indices) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/Nihar101/leetcode-solutions/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Sliding Window
 |  |
@@ -160,6 +162,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [1208-get-equal-substrings-within-budget](https://github.com/Nihar101/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nihar101/leetcode-solutions/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nihar101/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/Nihar101/leetcode-solutions/tree/master/3919-minimum-cost-to-move-between-indices) |
 | [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/Nihar101/leetcode-solutions/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 | [4044-count-good-cyclic-rotations](https://github.com/Nihar101/leetcode-solutions/tree/master/4044-count-good-cyclic-rotations) |
 ## Bit Manipulation

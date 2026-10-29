@@ -35,6 +35,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [2054-two-best-non-overlapping-events](https://github.com/Nihar101/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Nihar101/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Nihar101/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
+| [3912-valid-elements-in-an-array](https://github.com/Nihar101/leetcode-solutions/tree/master/3912-valid-elements-in-an-array) |
 | [3919-minimum-cost-to-move-between-indices](https://github.com/Nihar101/leetcode-solutions/tree/master/3919-minimum-cost-to-move-between-indices) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Nihar101/leetcode-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/Nihar101/leetcode-solutions/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |

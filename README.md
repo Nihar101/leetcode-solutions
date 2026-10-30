@@ -259,6 +259,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [1965-employees-with-missing-information](https://github.com/Nihar101/leetcode-solutions/tree/master/1965-employees-with-missing-information) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Nihar101/leetcode-solutions/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Nihar101/leetcode-solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| [3570-find-books-with-no-available-copies](https://github.com/Nihar101/leetcode-solutions/tree/master/3570-find-books-with-no-available-copies) |
 ## Dynamic Programming
 |  |
 | ------- |

@@ -36,6 +36,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Nihar101/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Nihar101/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3912-valid-elements-in-an-array](https://github.com/Nihar101/leetcode-solutions/tree/master/3912-valid-elements-in-an-array) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Nihar101/leetcode-solutions/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 | [3919-minimum-cost-to-move-between-indices](https://github.com/Nihar101/leetcode-solutions/tree/master/3919-minimum-cost-to-move-between-indices) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Nihar101/leetcode-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/Nihar101/leetcode-solutions/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
@@ -147,6 +148,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nihar101/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Nihar101/leetcode-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2405-optimal-partition-of-string](https://github.com/Nihar101/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Nihar101/leetcode-solutions/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 | [3919-minimum-cost-to-move-between-indices](https://github.com/Nihar101/leetcode-solutions/tree/master/3919-minimum-cost-to-move-between-indices) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/Nihar101/leetcode-solutions/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Sliding Window

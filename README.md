@@ -306,6 +306,7 @@ My solutions to LeetCode problems in C++ and other languages.
 ## Math
 |  |
 | ------- |
+| [3908-valid-digit-number](https://github.com/Nihar101/leetcode-solutions/tree/master/3908-valid-digit-number) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/Nihar101/leetcode-solutions/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4035-maximum-valid-split-positions-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4035-maximum-valid-split-positions-i) |
 | [4039-sum-of-decoded-numbers](https://github.com/Nihar101/leetcode-solutions/tree/master/4039-sum-of-decoded-numbers) |

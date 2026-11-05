@@ -180,12 +180,14 @@ My solutions to LeetCode problems in C++ and other languages.
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nihar101/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Nihar101/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nihar101/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Nihar101/leetcode-solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nihar101/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Nihar101/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nihar101/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Nihar101/leetcode-solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Graph Theory
@@ -202,11 +204,13 @@ My solutions to LeetCode problems in C++ and other languages.
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nihar101/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Nihar101/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nihar101/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nihar101/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Nihar101/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nihar101/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Database
 |  |
@@ -334,4 +338,5 @@ My solutions to LeetCode problems in C++ and other languages.
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nihar101/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Nihar101/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 <!---LeetCode Topics End-->

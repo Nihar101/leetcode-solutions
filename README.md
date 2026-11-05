@@ -179,11 +179,13 @@ My solutions to LeetCode problems in C++ and other languages.
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Nihar101/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nihar101/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Nihar101/leetcode-solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Nihar101/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nihar101/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Nihar101/leetcode-solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Graph Theory
@@ -199,10 +201,12 @@ My solutions to LeetCode problems in C++ and other languages.
 ## Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Nihar101/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nihar101/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Nihar101/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nihar101/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Database
 |  |
@@ -326,4 +330,8 @@ My solutions to LeetCode problems in C++ and other languages.
 | ------- |
 | [3913-sort-vowels-by-frequency](https://github.com/Nihar101/leetcode-solutions/tree/master/3913-sort-vowels-by-frequency) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Nihar101/leetcode-solutions/tree/master/4038-count-integers-appearing-in-a-single-block) |
+## Linked List
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Nihar101/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->

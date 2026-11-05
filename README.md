@@ -339,4 +339,9 @@ My solutions to LeetCode problems in C++ and other languages.
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nihar101/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Nihar101/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0203-remove-linked-list-elements](https://github.com/Nihar101/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Nihar101/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->

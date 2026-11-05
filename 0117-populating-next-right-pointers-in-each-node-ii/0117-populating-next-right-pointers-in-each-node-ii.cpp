@@ -15,28 +15,32 @@ public:
         : val(_val), left(_left), right(_right), next(_next) {}
 };
 */
+void solve(Node* curr, Node* next){
+    if(!curr)return;
+    curr->next = next;
+    Node* temp =curr;
+    while(temp->next&&(!temp->next->left&&!temp->next->right))temp=temp->next;
+    if(temp->next)temp=temp->next;
+    std::cout<<curr->val<<"-next->"<<curr->next<<endl;
+    Node * transfer = NULL;
+    if(temp!=curr&&temp->right)transfer=temp->right;
+    if(temp!=curr&&temp->left)transfer= temp->left;
+
+    if(curr->right){
+        solve(curr->right,transfer);
+    }
+    if(curr->left){
+        if(curr->right)solve(curr->left,curr->right);
+        else solve(curr->left,transfer);
+    }
+
+    return;
+}
 
 class Solution {
 public:
     Node* connect(Node* root) {
-        if(!root)return NULL;
-        queue<Node*> q;
-        q.push(root);
-        while(q.size()){
-            int k=q.size()-1;
-            Node* a = q.front();
-            q.pop();
-            if(a->left)q.push(a->left);
-            if(a->right)q.push(a->right);
-            while(k--){
-                Node* b = q.front();
-                q.pop();
-                if(b->left)q.push(b->left);
-                if(b->right)q.push(b->right);
-                a->next = b;
-                a=b;
-            }
-        }
+        solve(root,NULL);
         return root;
     }
 };

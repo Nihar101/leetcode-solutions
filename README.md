@@ -7,6 +7,7 @@ My solutions to LeetCode problems in C++ and other languages.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Nihar101/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Nihar101/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/Nihar101/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 | [4045-count-robot-groups](https://github.com/Nihar101/leetcode-solutions/tree/master/4045-count-robot-groups) |
 | [4054-count-shadow-pairs-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4054-count-shadow-pairs-i) |
@@ -27,6 +28,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [0300-longest-increasing-subsequence](https://github.com/Nihar101/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0566-reshape-the-matrix](https://github.com/Nihar101/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0846-hand-of-straights](https://github.com/Nihar101/leetcode-solutions/tree/master/0846-hand-of-straights) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Nihar101/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Nihar101/leetcode-solutions/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nihar101/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/Nihar101/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
@@ -315,6 +317,7 @@ My solutions to LeetCode problems in C++ and other languages.
 ## Monotonic Stack
 |  |
 | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/Nihar101/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [4045-count-robot-groups](https://github.com/Nihar101/leetcode-solutions/tree/master/4045-count-robot-groups) |
 | [4054-count-shadow-pairs-i](https://github.com/Nihar101/leetcode-solutions/tree/master/4054-count-shadow-pairs-i) |
 ## Math
@@ -340,6 +343,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nihar101/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Nihar101/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Nihar101/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Nihar101/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Recursion
 |  |
 | ------- |

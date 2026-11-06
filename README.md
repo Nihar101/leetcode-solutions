@@ -205,12 +205,14 @@ My solutions to LeetCode problems in C++ and other languages.
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Nihar101/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nihar101/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Nihar101/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nihar101/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Nihar101/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nihar101/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Nihar101/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nihar101/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -286,6 +288,7 @@ My solutions to LeetCode problems in C++ and other languages.
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/Nihar101/leetcode-solutions/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Nihar101/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Nihar101/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Nihar101/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [2054-two-best-non-overlapping-events](https://github.com/Nihar101/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
@@ -349,4 +352,12 @@ My solutions to LeetCode problems in C++ and other languages.
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Nihar101/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Nihar101/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Nihar101/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->

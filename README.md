@@ -191,6 +191,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nihar101/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Nihar101/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/Nihar101/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
+| [0617-merge-two-binary-trees](https://github.com/Nihar101/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nihar101/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Nihar101/leetcode-solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
@@ -202,6 +203,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [0404-sum-of-left-leaves](https://github.com/Nihar101/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nihar101/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Nihar101/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0617-merge-two-binary-trees](https://github.com/Nihar101/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nihar101/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Nihar101/leetcode-solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Graph Theory
@@ -228,6 +230,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nihar101/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Nihar101/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/Nihar101/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
+| [0617-merge-two-binary-trees](https://github.com/Nihar101/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nihar101/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -243,6 +246,7 @@ My solutions to LeetCode problems in C++ and other languages.
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nihar101/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Nihar101/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/Nihar101/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
+| [0617-merge-two-binary-trees](https://github.com/Nihar101/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nihar101/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Database
 |  |
